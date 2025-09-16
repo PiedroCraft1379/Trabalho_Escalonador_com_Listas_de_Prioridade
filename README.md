@@ -7,3 +7,11 @@
 - "Métodos para adicionar, executar, bloquear e finalizar processos."
 - "Estatísticas de execução e estado do sistema exibidos em cada ciclo."
 - 
+ "Implementação da classe Processos com encapsulamento e validações"
+
+- "Criada a classe Processos para representar entidades com id, nome, prioridade, ciclos e recursos."
+- "Incluídos métodos getters para acesso seguro aos atributos privados."
+- "Definidos setters que permitem alteração controlada dos valores dos atributos."
+- "Adicionada validação de prioridade no método setPrioridade para evitar valores inválidos."
+- "Método toString implementado para fornecer representação textual detalhada do processo."
+- "Classe estruturada para garantir encapsulamento, consistência e fácil manutenção."
