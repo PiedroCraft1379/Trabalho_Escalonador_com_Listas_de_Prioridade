@@ -49,22 +49,37 @@ Iniciando simulação...
 === RELATÓRIO FINAL ===
 
 === ESTATISTICAS DO SISTEMA ===
+
 Ciclos executados: 0
+
 Processos executados: 0
+
 Processos finalizados: 0
+
 Ciclos ociosos: 0
+
 Processos pendentes: 0
 ===============================
+
 ESTATÍSTICAS DO ARQUIVO:
+
    Total de processos lidos: 0
+   
    Prioridade alta: 0
+   
    Prioridade média: 0
+   
    Prioridade baixa: 0
+   
    Com recurso DISCO: 0
+
 PERFORMANCE GERAL:
+
    Tempo total: 0,03s
+   
    Memória utilizada: 4 MB
 ========================
+
 Simulação concluída com sucesso!
 
 
