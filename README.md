@@ -17,7 +17,7 @@ Vyctor Gabriel Machado Tôrres ( Vyctor.gabriel@somosicev.com )
 
 link do Repositorio: https://github.com/PiedroCraft1379/Trabalho_Escalonador_com_Listas_de_Prioridade
 
-link das questoes: file:///C:/Users/isaca/AppData/Local/Microsoft/Windows/INetCache/IE/R05I0MS9/relatorio_analise[1].pdf
+link das questoes:file:///C:/Users/isaca/AppData/Local/Microsoft/Windows/INetCache/IE/R05I0MS9/relatorio_analise[1].pdf
 
 descriçao do projeto: 
 
