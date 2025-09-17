@@ -71,7 +71,7 @@ ESTATÍSTICAS DO ARQUIVO:
 
 PERFORMANCE GERAL:
 
-   Tempo total: 33,35s
+   Tempo total: 15,35s
    
    Memória utilizada: 51 MB
 
