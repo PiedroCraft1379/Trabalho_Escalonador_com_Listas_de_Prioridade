@@ -37,51 +37,26 @@ BASH = javac ListaCircular.java Processos.java Scheduler.java Main.java
 
 Exemplo de saida:
 
-=== SIMULADOR DE SCHEDULER ===
-Iniciando simulação...
-(Modo silencioso ativado para melhor performance)
-
-? Simulação finalizada!
-   Ciclos executados: 0
-   Tempo de simulação: 0,00s
-   Status: Todos os processos foram executados
-
 === RELATÓRIO FINAL ===
 
 === ESTATISTICAS DO SISTEMA ===
-
-Ciclos executados: 0
-
-Processos executados: 0
-
-Processos finalizados: 0
-
+Ciclos executados: 15084
+Processos executados: 15084
+Processos finalizados: 50
 Ciclos ociosos: 0
-
+Taxa de ociosidade: 0,0%
 Processos pendentes: 0
-
 ===============================
-
 ESTATÍSTICAS DO ARQUIVO:
-
-   Total de processos lidos: 0
-   
+   Total de processos lidos: 50
    Prioridade alta: 0
-   
    Prioridade média: 0
-   
-   Prioridade baixa: 0
-   
+   Prioridade baixa: 50
    Com recurso DISCO: 0
-
 PERFORMANCE GERAL:
-
-   Tempo total: 0,03s
-   
-Memória utilizada: 4 MB
-
+   Tempo total: 33,35s
+   Memória utilizada: 51 MB
 ========================
 
-Simulação concluída com sucesso!
 
 
