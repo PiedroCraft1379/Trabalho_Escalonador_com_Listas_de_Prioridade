@@ -40,22 +40,41 @@ Exemplo de saida:
 === RELATÓRIO FINAL ===
 
 === ESTATISTICAS DO SISTEMA ===
+
 Ciclos executados: 15084
+
 Processos executados: 15084
+
 Processos finalizados: 50
+
 Ciclos ociosos: 0
+
 Taxa de ociosidade: 0,0%
+
 Processos pendentes: 0
+
 ===============================
+
 ESTATÍSTICAS DO ARQUIVO:
+
    Total de processos lidos: 50
+   
    Prioridade alta: 0
+   
    Prioridade média: 0
+
+   
    Prioridade baixa: 50
+   
+   
    Com recurso DISCO: 0
+
 PERFORMANCE GERAL:
+
    Tempo total: 33,35s
+   
    Memória utilizada: 51 MB
+
 ========================
 
 
