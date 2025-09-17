@@ -59,6 +59,7 @@ Processos finalizados: 0
 Ciclos ociosos: 0
 
 Processos pendentes: 0
+
 ===============================
 
 ESTATÍSTICAS DO ARQUIVO:
@@ -77,7 +78,8 @@ PERFORMANCE GERAL:
 
    Tempo total: 0,03s
    
-   Memória utilizada: 4 MB
+Memória utilizada: 4 MB
+
 ========================
 
 Simulação concluída com sucesso!
